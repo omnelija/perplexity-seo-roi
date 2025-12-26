@@ -1,0 +1,21 @@
+{
+  "name": "seoroi-vercel",
+  "version": "1.0.0",
+  "description": "SEO ROI Rechner Schweiz 2026 - Leitfaden für KMU, E-Commerce und B2B",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "seo",
+    "roi",
+    "rechner",
+    "schweiz",
+    "kmu",
+    "e-commerce",
+    "b2b"
+  ],
+  "author": "SEO ROI Rechner",
+  "license": "MIT"
+}
