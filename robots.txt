@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoroiberechnen.vercel.app/sitemap.xml
